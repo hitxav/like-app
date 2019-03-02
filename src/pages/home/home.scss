@@ -1,0 +1,59 @@
+page-home {
+    .swiper-container-android .swiper-slide, .swiper-wrapper{
+        height: 400px!important  ;
+   
+    }
+.buttons{
+    margin-top:10px;
+    //overflow: hidden !important;
+    position: absolute; 
+          
+ }
+.note{
+    margin-top:500px;
+    margin-left:-180px;
+    //overflow: hidden !important;
+}
+.exp1{
+    border: 1px solid  #CECACA;;
+    background-color: white;
+    color: #96C7EE;
+    font-size: 30px;
+    border-radius:50%;
+    padding:10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); 
+
+  }
+  .exp2{
+    border: 1px solid #CECACA;
+    background-color:white;
+    color: #0099FF;
+    font-size: 30px;
+    border-radius:50%;
+    padding:10px;
+    margin-left:-3px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); 
+
+  }
+  .exp3{
+    border: 1px solid  #CECACA;
+    background-color:white;
+    color: #FF0000;
+    font-size: 30px;
+    border-radius:50%;
+    padding:10px;
+    margin-left:-40px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); 
+  }
+  .exp4{
+    border: 1px solid  #CECACA;
+    background-color:white;
+    color: #E5FF00;
+    font-size: 30px;
+    border-radius:50%;
+    padding:10px;
+    margin-left:-40px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); 
+  }
+
+}
